@@ -1,0 +1,203 @@
+{
+  "categories": [
+    {
+      "name": "Państwa - Stolice",
+      "questions": [
+        {
+          "question": "Jaka jest stolica Polski?",
+          "answers": [
+            {"answer": "Warszawa", "isCorrect": true},
+            {"answer": "Kraków", "isCorrect": false},
+            {"answer": "Gdańsk", "isCorrect": false},
+            {"answer": "Poznań", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Jaka jest stolica Francji?",
+          "answers": [
+            {"answer": "Paryż", "isCorrect": true},
+            {"answer": "Lyon", "isCorrect": false},
+            {"answer": "Marsylia", "isCorrect": false},
+            {"answer": "Bordeaux", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Jaka jest stolica Hiszpanii?",
+          "answers": [
+            {"answer": "Madryt", "isCorrect": true},
+            {"answer": "Barcelona", "isCorrect": false},
+            {"answer": "Sevilla", "isCorrect": false},
+            {"answer": "Walencja", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Jaka jest stolica Niemiec?",
+          "answers": [
+            {"answer": "Berlin", "isCorrect": true},
+            {"answer": "Monachium", "isCorrect": false},
+            {"answer": "Hamburg", "isCorrect": false},
+            {"answer": "Frankfurt", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Jaka jest stolica Rosji?",
+          "answers": [
+            {"answer": "Moskwa", "isCorrect": true},
+            {"answer": "Sankt Petersburg", "isCorrect": false},
+            {"answer": "Kazań", "isCorrect": false},
+            {"answer": "Samara", "isCorrect": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stolice - Państwa",
+      "questions": [
+        {
+          "question": "Do jakiego państwa należy stolica Brasilia?",
+          "answers": [
+            {"answer": "Brazylia", "isCorrect": true},
+            {"answer": "Argentyna", "isCorrect": false},
+            {"answer": "Meksyk", "isCorrect": false},
+            {"answer": "Kolumbia", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Do jakiego państwa należy stolica Tokio?",
+          "answers": [
+            {"answer": "Japonia", "isCorrect": true},
+            {"answer": "Chiny", "isCorrect": false},
+            {"answer": "Korea Południowa", "isCorrect": false},
+            {"answer": "Indie", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Do jakiego państwa należy stolica Bangkoku?",
+          "answers": [
+            {"answer": "Tajlandia", "isCorrect": true},
+            {"answer": "Wietnam", "isCorrect": false},
+            {"answer": "Filipiny", "isCorrect": false},
+            {"answer": "Walencja", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Do jakiego państwa należy stolica Warszawa?",
+          "answers": [
+            {"answer": "Polska", "isCorrect": true},
+            {"answer": "Czechy", "isCorrect": false},
+            {"answer": "Indie", "isCorrect": false},
+            {"answer": "Indonezja", "isCorrect": false}
+          ]
+        },
+        {
+          "question": "Do jakiego państwa należy stolica Sri Dźajawardanapura Kotte?",
+          "answers": [
+            {"answer": "Sri Lanka", "isCorrect": true},
+            {"answer": "Sankt Petersburg", "isCorrect": false},
+            {"answer": "Kazań", "isCorrect": false},
+            {"answer": "Samara", "isCorrect": false}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Falgi państw",
+      "questions": [
+        {
+          "question": "Który kraj posiada flagę w kolorze białym i czerwonym?",
+          "answers": [
+            { "answer": "Polska", "isCorrect": true },
+            { "answer": "Niemcy", "isCorrect": false },
+            { "answer": "Francja", "isCorrect": false },
+            { "answer": "Włochy", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Który kraj posiada flagę w kolorze białym z czerwonym słońcem?",
+          "answers": [
+            { "answer": "Japonia", "isCorrect": false },
+            { "answer": "Indonezja", "isCorrect": false },
+            { "answer": "Bangladesz", "isCorrect": false },
+            { "answer": "Uzbekistan", "isCorrect": true }
+          ]
+        },
+        {
+          "question": "Który kraj posiada flagę w kolorze czerwonym z czarnym słońcem?",
+          "answers": [
+            { "answer": "Chorwacja", "isCorrect": true },
+            { "answer": "Brazylia", "isCorrect": false },
+            { "answer": "Japonia", "isCorrect": false },
+            { "answer": "Indonezja", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Który kraj posiada flagę w kolorze zielonym z białym półksiężycem i gwiazdą?",
+          "answers": [
+            { "answer": "Pakistan", "isCorrect": true },
+            { "answer": "Turcja", "isCorrect": false },
+            { "answer": "Maroko", "isCorrect": false },
+            { "answer": "Algieria", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Który kraj posiada flagę w kolorze białym z czerwonym krzyżem na niebieskim tle?",
+          "answers": [
+            { "answer": "Szkocja", "isCorrect": false },
+            { "answer": "Finlandia", "isCorrect": false },
+            { "answer": "Szwajcaria", "isCorrect": true },
+            { "answer": "Szwecja", "isCorrect": false }
+          ]
+        }
+      ]
+    },{
+      "name": "Liczba ludności",
+      "questions": [
+        {
+          "question": "Jakie jest najludniejsze państwo na świecie?",
+          "answers": [
+            { "answer": "Chiny", "isCorrect": true },
+            { "answer": "Indie", "isCorrect": false },
+            { "answer": "Stany Zjednoczone", "isCorrect": false },
+            { "answer": "Rosja", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Ile ludzi mieszka w Polsce?",
+          "answers": [
+            { "answer": "30 milionów", "isCorrect": false },
+            { "answer": "50 milionów", "isCorrect": false },
+            { "answer": "45 milionów", "isCorrect": false },
+            { "answer": "40 milionów", "isCorrect": true }
+          ]
+        },
+        {
+          "question": "Ile wynosi światowa populacja?",
+          "answers": [
+            { "answer": "8 miliardów", "isCorrect": true },
+            { "answer": "7 miliardów", "isCorrect": false },
+            { "answer": "9 miliardów", "isCorrect": false },
+            { "answer": "11 miliardów", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Które państwo ma najmniejszą populację na świecie?",
+          "answers": [
+            { "answer": "Nauru", "isCorrect": true },
+            { "answer": "Tuvalu", "isCorrect": false },
+            { "answer": "Monako", "isCorrect": false },
+            { "answer": "Watykan", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "Które państwo ma największą gęstość zaludnienia?",
+          "answers": [
+            { "answer": "Bangladesz", "isCorrect": false },
+            { "answer": "Watykan", "isCorrect": false },
+            { "answer": "Monako", "isCorrect": true },
+            { "answer": "Chiny", "isCorrect": false }
+          ]
+        }
+      ]
+    }
+  ]
+}
